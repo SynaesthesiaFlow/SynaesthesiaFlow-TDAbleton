@@ -6,3 +6,11 @@
 	path = EnvelopLX
 	url = git@github.com:synaesthesiaflow/EnvelopLX.git
 	branch = master
+[submodule "EnvelopForLive"]
+	path = EnvelopForLive
+	url = git@github.com:EnvelopSound/EnvelopForLive.git
+	branch = master
+[submodule "TDAbletonMirror"]
+	path = TDAbletonMirror
+	url = git@github.com:synaesthesiaflow/TDAbletonMirror.git
+	branch = master
