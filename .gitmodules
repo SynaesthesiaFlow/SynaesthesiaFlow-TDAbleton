@@ -1,0 +1,8 @@
+[submodule "TDSynaesthesia"]
+	path = TDSynaesthesia
+	url = git@github.com:synaesthesiaflow/TDSynaesthesia.git
+	branch = master
+[submodule "EnvelopLX"]
+	path = EnvelopLX
+	url = git@github.com:synaesthesiaflow/EnvelopLX.git
+	branch = master
