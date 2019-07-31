@@ -1,6 +1,14 @@
 # Welcome to Synaesthesia
 High level description of stack.
 
+
+## First things first... Get all the stuff.
+
+All dependencies as submodules
+
+    git clone --recurse-submodules -j8  git@github.com:synaesthesiaflow/Synaesthesia.git
+
+
 ### Ableton <==> TouchDesigner
 Touchdesigner acts as the connection layer for data in and out of Ableton.  Thanks Ivan.
 
@@ -29,9 +37,3 @@ Those are the current components of the system enumerated, and that's it for now
 This project is nascent and it's up to *you* to bring the game.
 Let's start a wiki here to start pooling our knowledge.
 
-
-## Get all the stuff...
-
-All dependencies as submodules
-
-    git clone --recurse-submodules -j8  git@github.com:synaesthesiaflow/Synaesthesia.git
