@@ -10,7 +10,7 @@ All dependencies as submodules
 #### the goal - help needed!
 The goal of this repo is "one liner" clone and all needed instruction to a useful and productive dev environment, to contribute to the art.  Laptop only.  No hardware needed.
 
-When we did the [Tree of Tenere](https://github.com/treeoftenere/tenere) we provided a similar paradigm and had loads of great burner-sourced visual content that we ran on the tree!!  Now it's our chance to collectively create audio-visual content.
+Two years ago with the [Tree of Tenere](https://github.com/treeoftenere/tenere) project we provided a similar distributed development paradigm and had loads of great burner-sourced visual content that we ran on the actual tree!!  Now it's our chance to collectively create audio-visual content, and just like two years ago pull requests that *you* submit will very concretely contribute to the flow of the art-music experience.
 
 + Ableton audio effect presets
 + LX patterns/effects
