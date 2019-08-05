@@ -7,7 +7,7 @@ All dependencies as submodules
 
     git clone --recurse-submodules -j8  git@github.com:synaesthesiaflow/Synaesthesia.git
 
-#### the goal - help needed!
+#### Immediate goal of this repo - help needed!
 The goal of this repo is "one liner" clone and all needed instruction to a useful and productive dev environment, to contribute to the art.  Laptop only.  No hardware needed.
 
 Two years ago with the [Tree of Tenere](https://github.com/treeoftenere/tenere) project we provided a similar distributed development paradigm and had loads of great burner-sourced visual content that we ran on the actual tree!!  Now it's our chance to collectively create audio-visual content, and just like two years ago pull requests that *you* submit will very concretely contribute to the flow of the art-music experience.
