@@ -34,7 +34,7 @@ LX is an open source 3D pixel control library originally written by Mark Slee an
 The most mature and featureful open source instantiation of LX is that which was used for the [Tree of Tenere](https://github.com/treeoftenere/Tenere).  If you're involved in the project SomaSteazyYa (nate) can lend you a Tenere MCU for you're own hacking enjoiment.
 
 #### proprietary instantiation of LX lighting engine
-SymmetryLabs is intending to release their application image "Volume" for Synaesthesia which can be used to build functionality without writing code.  Link to beta version Mac App soon.
+SymmetryLabs is intending to release their application image "Volume" to collaborators who express interest to Nathan or Sam.  We can ping you a copy of the software.  SymmetryLabs is a for profit company and develops an excellent instantiation of LX, but it is closed source.
 
 ## Envelop
 Envelop is open source tooling (also pioneered by Mark Slee, and Christopher Willets) for spatial audio.
