@@ -31,7 +31,7 @@ You'll need to follow the directions at the [official page](https://docs.derivat
 LX is an open source 3D pixel control library originally written by Mark Slee and most substantially developed in a fork that went proprietary 2 years ago.  Thus there are two options for this component.
 
 #### open source instantiation of LX lighting engine
-The most mature and featureful open source instantiation of LX is that which was used for the [Tree of Tenere](https://github.com/treeoftenere/Tenere).  If you're involved in the project SomaSteazyYa (nate) can lend you a Tenere MCU for you're own hacking enjoiment.
+The most mature and featureful open source instantiation of LX is that which was used for the [Tree of Tenere](https://github.com/treeoftenere/Tenere).  If you're involved in the project SomaSteezyYa (nate) can lend you a Tenere MCU for you're own hacking enjoiment.
 
 #### proprietary instantiation of LX lighting engine
 SymmetryLabs is intending to release their application image "Volume" to collaborators who express interest to Nathan or Sam.  We can ping you a copy of the software.  SymmetryLabs is a for profit company and develops an excellent instantiation of LX, but it is closed source.
